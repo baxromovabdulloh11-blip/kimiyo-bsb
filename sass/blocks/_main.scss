@@ -1,0 +1,19 @@
+.main-pct {
+  width: 1050px;
+  height: 750px;
+}
+
+.indikatorlar-hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+}
+
+.indikatorlar {
+  width: 300px;
+  border: 2px black solid;
+  border-radius: 10px;
+  padding: 5px 10px;
+  background-color: whitesmoke;
+}
